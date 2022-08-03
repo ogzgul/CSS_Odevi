@@ -1,0 +1,17 @@
+.ul1 {
+    list-style: none;
+    display: inline;
+    color: aliceblue;
+    font-size: 25px;
+    
+    
+}
+
+nav {
+    background-color: brown;
+}
+
+a:hover {
+    background-color: black;
+}
+
